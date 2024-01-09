@@ -1,0 +1,8 @@
+{
+  "name": "react-native-new-template",
+  "version": "1.0.0",
+  "description": "React Native Template for demonstration Animations",
+  "repository": "git@github.com:lucas-figueiredo-m/react-native-animation-template.git",
+  "author": "Lucas Figueiredo <lucasfigueiredo285@gmail.com>",
+  "license": "MIT"
+}
